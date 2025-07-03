@@ -1,1 +1,1 @@
-# Senha.segura
+# SenhaSegura2025
